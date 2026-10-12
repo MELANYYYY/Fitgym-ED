@@ -38,7 +38,7 @@ Los datos se validan tanto al crear un `Socio` como al ingresarlos por el menú.
 
 ```text
 .
-├── Equipo3Parcial/
+├── src/
 │   ├── LinkedList.java   # Implementación genérica de la lista enlazada
 │   ├── List.java         # Interfaz de operaciones de lista
 │   ├── ListaSocio.java   # Lista de socios y métodos del ejercicio
